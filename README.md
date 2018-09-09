@@ -1,3 +1,3 @@
 # ITF-Lab 2018
 
-## ภาวย์ เพชรรัตน์ธนากุล 61070161
+## Pavaree Petcharustanakul 61070161
